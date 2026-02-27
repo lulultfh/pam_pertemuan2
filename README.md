@@ -1,7 +1,15 @@
-<img width="1919" height="1009" alt="image" src="https://github.com/user-attachments/assets/9ed393b1-b579-4f62-8841-43da27578fd5" /># Basic Dart
+# Basic Dart
 
 >Nama: Lu'lu' Luthfiah <br>
 >NIM: 20230140209 <br>
+
+## Table of Content
+- [Tipe Data](#tipe-data)
+- [Variable](#variable)
+- [Operator](#operator)
+- [Control Flow](#control-flow)
+- [Function](#function)
+- [Null Safety](#null-safety)
 
 ## Tipe Data
 | No | Name | Screenshot |
