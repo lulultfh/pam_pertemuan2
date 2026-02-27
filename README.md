@@ -55,6 +55,8 @@
 | 6. | <= |<img width="1919" height="1006" alt="image" src="https://github.com/user-attachments/assets/d462a395-9677-42cc-a150-5eb96e84a7e1" />|
 
 ### Penugasan
-| No | Name | Screenshot |
+| No | Operator | Screenshot |
 |--|---|---|
 | 1. | = |<img width="1919" height="1007" alt="image" src="https://github.com/user-attachments/assets/4fa8fe6d-d183-420a-9884-1f73bc35739c" />|
+| 2. | += |<img width="1919" height="1004" alt="image" src="https://github.com/user-attachments/assets/937c7fc8-7305-47f2-821f-87338d437d66" />|
+
