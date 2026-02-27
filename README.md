@@ -42,3 +42,4 @@
 | 3. | Perkalian |<img width="1919" height="1010" alt="image" src="https://github.com/user-attachments/assets/12deba65-b39a-427d-b2e9-2fa365437a99" />|
 | 4. | Pembagian Bilangan Decimal |<img width="1919" height="1008" alt="image" src="https://github.com/user-attachments/assets/50d92f08-e2de-4404-8970-813be13aa97c" />|
 | 5. | Pembagian Bilangan Bulat |<img width="1919" height="1002" alt="image" src="https://github.com/user-attachments/assets/2fe22bd3-f592-4539-bf3e-6f952452c01c" />|
+| 6. | Modulus (Sisa Bagi) |<img width="1919" height="1004" alt="image" src="https://github.com/user-attachments/assets/4cc143b6-fda4-418d-8897-999f396bade3" />|
