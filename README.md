@@ -68,3 +68,4 @@
 | No | Name | Screenshot |
 |--|---|---|
 | 1. | If, Else If, Else |<img width="1919" height="1003" alt="image" src="https://github.com/user-attachments/assets/f3048d33-3a89-40b1-8a80-f555952b45fe" />|
+| 2. | Switch Case |<img width="1919" height="1008" alt="image" src="https://github.com/user-attachments/assets/256b5a8c-5f09-4de0-a867-d2481442ab88" />|
