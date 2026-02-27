@@ -11,3 +11,4 @@
 | 3. | List | <img width="1919" height="1006" alt="image" src="https://github.com/user-attachments/assets/313c69ed-e4e6-4ba4-bc60-4fbf72d17231" />|
 | 3.1 | List (Mengakses list by index) | <img width="1919" height="1011" alt="image" src="https://github.com/user-attachments/assets/2ad4544a-8fa7-46f4-94b6-1746a419fbae" />|
 | 3.2 | List (Menambahkan item ke list) | <img width="1919" height="1006" alt="image" src="https://github.com/user-attachments/assets/0e08a549-302d-4a76-9a91-42a4610b8c66" />|
+| 3.3 | List (Menghapus item di list) | <img width="1919" height="1007" alt="image" src="https://github.com/user-attachments/assets/08a6d530-6e3f-4e98-8432-6a0040480f3c" />|
