@@ -77,3 +77,8 @@
 | 4.3.1 | Looping (For-Each) di dalam List |<img width="1919" height="1002" alt="image" src="https://github.com/user-attachments/assets/44357750-1a39-48c7-a68d-88fb23fc2f45" />|
 | 4.3.2 | Looping (For-Each) di dalam Set |<img width="1919" height="1001" alt="image" src="https://github.com/user-attachments/assets/4e8c155a-66f2-4c2c-b353-ad609ee3bb07" />|
 | 4.3.3 | Looping (For-Each) di dalam Map |<img width="1919" height="1007" alt="image" src="https://github.com/user-attachments/assets/67ca1d43-079b-4617-969b-fb933a429695" />|
+
+## Function
+| No | Name | Screenshot |
+|--|---|---|
+| 1. | Function without Return |<img width="1919" height="1004" alt="image" src="https://github.com/user-attachments/assets/2bd37f37-8f2a-4d2d-8172-e95bb69f729f" />|
