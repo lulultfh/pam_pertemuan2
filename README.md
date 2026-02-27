@@ -17,3 +17,4 @@
 | 5. | Map | <img width="1919" height="1008" alt="image" src="https://github.com/user-attachments/assets/9afc92aa-f47f-4f1b-8008-775bc5e72322" />|
 | 5.1 | Map (Mengakses nilai berdasarkan key) | <img width="1919" height="1005" alt="image" src="https://github.com/user-attachments/assets/5beb5555-85e2-44e4-892f-ebe80c4e9177" />|
 | 5.2 | Map (Mengubah nilai menggunakan key) | <img width="1919" height="1005" alt="image" src="https://github.com/user-attachments/assets/2e0d76ff-3c6a-465b-88a6-1b91979504df" />|
+| 5.3 | Map (Menambahkan key baru ke dalam map) | <img width="1919" height="1010" alt="image" src="https://github.com/user-attachments/assets/297fee3f-9d5a-47d3-87fb-45d21b1a9be7" />|
