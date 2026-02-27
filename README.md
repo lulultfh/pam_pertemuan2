@@ -32,3 +32,9 @@
 |--|---|---|
 | 1. | Final |<img width="1919" height="1001" alt="image" src="https://github.com/user-attachments/assets/fd377176-932e-4055-bdda-301e40db4c01" />|
 | 2. | Const |<img width="1919" height="1006" alt="image" src="https://github.com/user-attachments/assets/f327ada0-cddc-460d-8163-cd0b70d826c0" />|
+
+## Operator
+### Aritmatika
+| No | Name | Screenshot |
+|--|---|---|
+| 1. | Penjumlahan |<img width="1919" height="996" alt="image" src="https://github.com/user-attachments/assets/3a7ab777-fd37-49ad-b17f-190fd1056105" />|
