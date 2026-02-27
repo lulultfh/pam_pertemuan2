@@ -88,3 +88,4 @@
 | No | Name | Screenshot |
 |--|---|---|
 | 1. | Non-Nullable |<img width="1919" height="1000" alt="image" src="https://github.com/user-attachments/assets/90b0e480-576c-44d3-9d0a-38e95fd17019" />|
+| 2. | Nullable |<img width="1919" height="1009" alt="image" src="https://github.com/user-attachments/assets/fa73da22-1221-4ef4-93f9-6164d9736a89" />|
